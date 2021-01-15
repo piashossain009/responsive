@@ -1,0 +1,111 @@
+body {
+    background-color: #E5E5E5;
+}
+
+/* start menubar part  */
+
+.header {
+    background-color: #FFF9F4;
+}
+
+.menu-bar {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.nav-item a {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    margin-right: 30px;
+    color: #3C3C3C;
+}
+
+/* end menubar part  */
+
+/* start banner part  */
+.sld img {
+    height: 500px;
+    width: 500px;
+}
+
+.button {
+    background-color: #3949DA;
+    border: none;
+    color: white;
+    padding: 30px 70px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 15px;
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+}
+
+.button img {
+    height: 24px;
+    width: 24px;
+}
+
+.txt {
+    font-size: 80px;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: bold;
+}
+
+.txt-1 {
+    color: #FA804C;
+}
+
+.txt-2 {
+    color: #363958;
+}
+
+/* end banner part  */
+
+/* start categorey section  */
+.cat-photo {
+    height: 311px;
+    width: 311px;
+}
+
+.text-1 {
+    font-size: 48px;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 500;
+    color: #363958;
+}
+
+.text-2 {
+    font-size: 34px;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 500;
+    color: #363958;
+}
+
+.text-3 {
+    font-size: 36px;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 600;
+    color: #FA804C;
+}
+
+/* end categorey section  */
+
+/* start 2 column part  */
+.sss img {
+    height: 78px;
+    width: 78px;
+}
+
+.photo img {
+    height: 350px;
+    width: 600px;
+}
+
+/* end 2 column part  */
+
+/* fotter section  */
+.footer p {
+    text-align: center;
+}
